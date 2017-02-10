@@ -5,7 +5,7 @@ var Cart = require('../models/cart');
 var Order = require('../models/order');
 var Product = require('../models/product');
 
-var serverKey = "sk_test_Gpm3TUNH5POctpPLhIGk510I" // <------your sk_test key here
+var serverKey = "sk_test_Gpm3TUNH5POctpPLhIGk510I" // <------your sk_test key here (I've reset this example)
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
