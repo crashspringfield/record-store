@@ -1,0 +1,61 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  color: #777;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  background-color: #F5F5F5;
+}
+.dropdown-menu {
+  background-color: #F5F5F5;
+}
+.price {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/*Index*/
+.list-group-item {
+  -webkit-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+}
+.thumbnail {
+  -webkit-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+}
+.thumbnail a>img, .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 250px;
+    max-height: 300px;
+    height: 300px;
+    width: 300px;
+    margin-top: 25px;
+}
+.thumbnail .description {
+  color: #7f7f7f;
+}
+
+/*Checkout*/
+.checkout-form {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+}
+
+/*User Profile*/
+.panel.panel-default {
+  -webkit-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 63px -15px rgba(0,0,0,0.75);
+}
