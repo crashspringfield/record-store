@@ -1,4 +1,4 @@
-var clientKey = "pk_test_SJaGVnDsg2KfksKBr93qejTi" // <---- your pk_test key here
+var clientKey = "pk_test_SJaGVnDsg2KfksKBr93qejTi" // <---- your pk_test key here (I've reset this anyway)
 
 Stripe.setPublishableKey(clientKey);
 
