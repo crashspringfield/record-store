@@ -18,8 +18,8 @@ demo, but you can install and run locally.
 
 3. Add your test Stripe keys. Once you have a Stripe account, go [here](https://dashboard.stripe.com/account/apikeys) and
 
-  at line 1 of [checkout]() add your Test Publishable Key
-  at line 8 of [/routes/index]() add your Test Secret Key
+  at line 1 of [checkout](https://github.com/crashspringfield/record-store/blob/master/public/javascripts/checkout.js) add your Test Publishable Key
+  at line 8 of [/routes/index](https://github.com/crashspringfield/record-store/blob/master/routes/index.js) add your Test Secret Key
 
 4. Start the server and head on over to localhost:3000
 
