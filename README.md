@@ -1,16 +1,19 @@
-#Record Store
+# Record Store
+
 A minimal AF template for a full-stack webstore built with Node, MongoDB, Express,
 and Handlebars. It uses Passport, Cookie-Parser, and Express-Session to keep
 users safely logged in, and transactions are completed through Stripe integration.
 
-##Running Locally
+## Running Locally
+
 Using Express to render .hbs prevents this from being a quick-and-easy Github Pages
 demo, but you can install and run locally.
 
 1. Download and install dependencies (you'll need Node.js and MongoDB):
 
-    git clone
-    npm install
+       git clone
+    
+       npm install
 
 2. Seed the database with dummy data:
 
@@ -23,4 +26,4 @@ demo, but you can install and run locally.
 
 4. Start the server and head on over to localhost:3000
 
-    npm start
+       npm start
